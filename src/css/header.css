@@ -1,0 +1,45 @@
+.div-beackground {
+  background-color: #f5e29b;
+  overflow: hidden;
+}
+
+.color-header-h {
+  color: #fff;
+  float: left;
+  margin-left: 38px;
+  margin-top: 18px;
+}
+
+.navegation {
+  float: right;
+  vertical-align: center;
+  align: right;
+  margin-top: 18px;
+}
+
+.color-header-a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 22px;
+  font-size: 24px;
+}
+
+.navegation .last-a {
+  width: 60px;
+  height: 60px;
+  color: #f5e29b;
+  background-color: #fff;
+  text-decoration: none;
+  margin-right: 34px;
+}
+
+.div-h {
+  margin-top: 207px;
+}
+.-h {
+  text-align: center;
+}
+
+/*.last-h {
+  margin-top: 20;
+}*/
