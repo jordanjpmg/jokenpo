@@ -41,8 +41,10 @@
 }
 .-h {
   text-align: center;
+  margin-bottom: 15px;
 }
 
-/*.last-h {
+.-h.last-h {
   margin-top: 20;
-}*/
+  margin-bottom: 5px;
+}
